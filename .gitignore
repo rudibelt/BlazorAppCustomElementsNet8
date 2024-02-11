@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/BlazorAppCustomElementsNet8
+/BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8/obj
+/BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8.Client/obj
