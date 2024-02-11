@@ -5,3 +5,5 @@
 /.vs/BlazorAppCustomElementsNet8
 /BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8/obj
 /BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8.Client/obj
+/BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8/bin/Debug/net8.0
+/BlazorAppCustomElementsNet8/BlazorAppCustomElementsNet8.Client/bin/Debug/net8.0

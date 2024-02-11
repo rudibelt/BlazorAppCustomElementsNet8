@@ -29,4 +29,5 @@ app.MapRazorComponents<App>()
     .AddInteractiveWebAssemblyRenderMode()
     .AddAdditionalAssemblies(typeof(BlazorAppCustomElementsNet8.Client._Imports).Assembly);
 
+app.MapFallbackToFile("index.html");
 app.Run();
